@@ -17,6 +17,24 @@
       "title": "AUTUMN",
       "content": "This is my third blog post. I am really excited to start writing here.",
       "image": "/nature2.jpg"
+    },
+    {
+      "id": "4",
+      "title": "SUMMER",
+      "content": "This is my third blog post. I am really excited to start writing here.",
+      "image": "/nature1.webp"
+    },
+    {
+      "id": "5",
+      "title": "AUTUMN",
+      "content": "This is my third blog post. I am really excited to start writing here.",
+      "image": "/nature2.jpg"
+    },
+    {
+      "id": "6",
+      "title": "WINTER",
+      "content": "This is my third blog post. I am really excited to start writing here.",
+      "image": "/nature1.webp"
     }
   ]
 }
